@@ -3,9 +3,9 @@
 #include <stdio.h>
 
 /**
- * main -> to the variable n each time it is excuted and prints
+ * main - to the variable n each time it is excuted and print
  * based a condition
- * Return : always 0
+ * Return : always 0 (sucess/coreect)
 */
 int main(void)
 {
