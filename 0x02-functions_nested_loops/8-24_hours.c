@@ -30,7 +30,8 @@ if (j < 10)
 else if (j >= 10)
 {
 	_putchar(':');
-	_putchar((j / 10) + '0');													_putchar((j % 10) + '0');
+	_putchar((j / 10) + '0'):
+		_putchar((j % 10) + '0');
 }
 _putchar('\n');
 
